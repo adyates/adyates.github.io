@@ -1,6 +1,15 @@
+---
+layout: post
+title: Why Fizz Buzz the Musical?
+categories:
+- blog
+- repo
+- fizzbuzz
+---
+
 For foreign language credit.   That's actually a semi-serious answer.
 
-Going to another country in my mind is a few simple parts:
+Going to another country (in my mind) is made up of a few surface-simple parts:
 
   * Seeing how things are laid out given a new set of environmental constraints and conditions.
   * Listening to a new language.
@@ -47,4 +56,3 @@ Of course, the other reason people learn a language is for the exposure to the h
 `<insert desired gender here>` for mating purposes.  That doesn't really apply in my case, but being able
 to connect with people over language prejudices and passions is more or less the same thing.  At least,
 I'd like to think so.
-

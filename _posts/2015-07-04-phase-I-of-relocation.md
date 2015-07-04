@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Planning for Relocation: Phase I
+title: Planning for Relocation - Phase I
 categories:
 - blog
 - repo

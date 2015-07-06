@@ -7,7 +7,6 @@ categories:
 - hoh-gwuhn
 ---
 
-
 Geocoding itself was actually straight forward.  Google's Map APIs are surprisingly easy to use and
 have the advantage of not requiring an API key to use (Unlike their Bingified competition), so
 getting the geocoding data was not really a problem.

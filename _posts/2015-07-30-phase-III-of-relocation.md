@@ -35,8 +35,6 @@ or mouse to the upper right corner.  Every.  Single.  Time.
 
 I figured the context menu would be a better bet.
 
-![CheckAddress](/assets/img/myopia-v1/CheckAddress.png)
-
 However, when it comes to making a UI, I'm notoriously lazy about making things pretty, after a
 point, and I was less than enthused about trying to figure out how to do a decent overlay.  So
 I decided I'd stick the results into the context menu too.  It's incredibly annoying, but as a
@@ -59,6 +57,13 @@ Lastly, once I has the final result, both the distance and the location label ac
 Largely because if I want to check the school later, I need something more to go on than just the
 distance.  Tends to be better that way when one is geographically deficient.
 
+And some final actions shots, letting me know that if I wanted to be a web dev for the Firefall
+people (Which always had a surprisingly large area at PAX years before it even came out):
+
+-------
+
+![CheckAddress](/assets/img/myopia-v1/CheckAddress.png)
+ 
 ![CheckResult](/assets/img/myopia-v1/CheckResult.png)
 
 

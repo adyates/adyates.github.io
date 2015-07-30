@@ -25,17 +25,17 @@ identification on the page, it boils down to:
 Arguably, the difference between 2 and 3 is minimal, but ultimately selecting 3 is a choice of 
 how you want to use fine motor mouse skills: Navigate a context menu for an option... 
 
-![ContextMenu](//assets/img/myopia-v1/ContextMenu.png)
+![ContextMenu](/assets/img/myopia-v1/ContextMenu.png)
 
 or mouse to the upper right corner.  Every.  Single.  Time.
 
-![BrowserAction](//assets/img/myopia-v1/BrowserAction.png)
+![BrowserAction](/assets/img/myopia-v1/BrowserAction.png)
 
 (Side note, the icon was made in Google Draw).
 
 I figured the context menu would be a better bet.
 
-![CheckAddress](//assets/img/myopia-v1/CheckAddress.png)
+![CheckAddress](/assets/img/myopia-v1/CheckAddress.png)
 
 However, when it comes to making a UI, I'm notoriously lazy about making things pretty, after a
 point, and I was less than enthused about trying to figure out how to do a decent overlay.  So
@@ -59,7 +59,7 @@ Lastly, once I has the final result, both the distance and the location label ac
 Largely because if I want to check the school later, I need something more to go on than just the
 distance.  Tends to be better that way when one is geographically deficient.
 
-![CheckResult](//assets/img/myopia-v1/CheckResult.png)
+![CheckResult](/assets/img/myopia-v1/CheckResult.png)
 
 
 
